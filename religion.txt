@@ -1,0 +1,69 @@
+
+{
+
+
+
+"islam": ["muslim", "mohammed", "sharia", "allah", "Caliph", "Fatwa" , "Hadith", "Hajj", "Jihad", "Kafir", "Koran", "Masjid", "mosque", "qur'an", "Shari'ah", "Shi'a", "Sufi", 'islamist', 'Maulvis', 'Qadianis', 'pakistani', 'sunni', "arabs", "taliban", "radical islam", "muslim brotherhood" ]
+],
+
+
+"buddhism": ["buddha", "buddhist", "tibetan", "Buddhism Confucianism", "Mahayana Buddhism", "karma", "nirvana", "samsara", "Zen", "tantra", "Lama", "mantra", "mandala"
+],
+
+
+
+"jainism": ["ahimsa", "mahavir", "non-violence", "karma", 
+],
+
+
+
+"christianity": ["jesus", "biblical literalists", "mormon", "christ", "gentile", "catholic", "protestant", "nazarene", "Testament", "baptism", "Jerusalem"
+],
+
+
+"hinduism": ["Dharma", "devi", "karma", "vishnu", "brahma", "saraswati", "guru", "acharya", cows"
+],
+
+
+"Judaism": ["torah", "israel:, "testament", "Bat Mitzvah", "yeshiva", "Jerusalem"
+]
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

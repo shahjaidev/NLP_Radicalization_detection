@@ -1,0 +1,18 @@
+
+{
+
+"white": ["caucasian", "european", "pale skin", ] ,
+
+"black": [ "African American", "nigger", "black lives matter", "africa", "afro-american", "colored"
+],
+
+
+"asian": ["south asian", "brown skin", indian", "nepalese", "chinese", "taiwanese", "thai", "malay", "east asian", "malaysian", "singaporean", "china", "north korea", "south korea"]
+],
+
+
+"hispanic": ["mexican", "mexico" "latino", "spanish", "chicanos", "spanish speaking", "greaser", "wetback", "taco", "Taracahitian", "spanish american", "mestizo"]
+
+
+
+}

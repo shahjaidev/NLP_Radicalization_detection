@@ -1,0 +1,4 @@
+curl -X POST -u "apikey:{0DWwlEM6RsPb0nnawbE3Rzbpmrg9OOLcLA5xJOel17wN}" \
+--header "Content-Type: application/json" \
+--data-binary @{/Users/jaidevshah/Desktop/YouTube/YouTube_All/}test.json \
+"{https://gateway-syd.watsonplatform.net/tone-analyzer/api}/v3/tone?version=2017-09-21"
