@@ -44,6 +44,13 @@ get_and_parse_comments.py
 
 
 
+### Religion, Race and self-created dictionaries (contains commonly used social media words in those fields, and derogatory slurs)
+
+religion.txt
+race.txt
+
+
+
 
 
 
