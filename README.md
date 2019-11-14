@@ -1,4 +1,4 @@
-#Data Science Institute Scholar Project
+# Data Science Institute Scholar Project
 
 Jaidev Shah, Columbia SEAS '21
 
