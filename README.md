@@ -1,3 +1,5 @@
+Data Science Institute Scholar Project
+Jaidev Shah, Columbia SEAS '21
 
 ### Dependencies
 * Python 3+
